@@ -1,0 +1,21 @@
+{
+  "title": "AI 程式設計：thinking in AI",
+  "author": "Your Name",
+  "language": "zh-tw",
+  "plugins": [
+    "highlight",
+    "github",
+    "code",
+    "katex",
+    "-sharing",
+    "copy-code-button"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/your-repo"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  }
+}
